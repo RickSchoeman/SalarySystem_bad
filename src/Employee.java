@@ -8,7 +8,7 @@ public class Employee {
 		name = "";
 		sal = 0;
 	}
-	
+
 	public Employee(String n, int k) {
 		name = n; this.k = k;
 	}
